@@ -1,2 +1,3 @@
 # Demo_Django_Project
-This a Demo Django Project for Projects Purpose
+
+This a Demo Django Project for Project Purposes
